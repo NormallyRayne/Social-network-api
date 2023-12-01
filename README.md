@@ -6,7 +6,7 @@ This Social Network API provides a platform for managing users, thoughts, reacti
 
 ## Video
 
-https://www.youtube.com/watch?v=w41tfhrxDKs
+https://youtu.be/gt5KD_V89Fc
 
 ## Getting Started
 
